@@ -4,6 +4,7 @@
 #include <stdlib.h>
 #include<locale.h>
 
+//raquel alteraÃ§ao
 const int TAM_MAX_VETOR = 100;
 
 int main()
@@ -87,7 +88,7 @@ int main()
     }
 
     printf("\TOTAL_CLIENTES_LIGARAM %d\n",i, setlocale(LC_ALL,""));
-    printf("\Duração média :\n");
+    printf("\Duraï¿½ï¿½o mï¿½dia :\n");
    
     int l;	
     for(l=10;l<100;l++){
